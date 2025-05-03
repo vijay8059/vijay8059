@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Screenshot](https://media.tenor.com/bSn0RWU_-8IAAAAC/emoji-hello.gif) 
 <!--
 **vijay8059/vijay8059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
